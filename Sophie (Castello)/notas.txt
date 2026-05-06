@@ -1,0 +1,25 @@
+Estudar Python hoje!
+ler sobre Clean Code.
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+
+
+AULA 7
+if = uma pergunta ou o começo de uma linha
+*sempre que tiver if DEVE terminar com else
+o elif é uma "opção" ou uma condição do if
+ex: "opção desejada TAG"
+(!=)- quando é uma opção diferente de todas. tipo: sair
+input usado para perguntas
