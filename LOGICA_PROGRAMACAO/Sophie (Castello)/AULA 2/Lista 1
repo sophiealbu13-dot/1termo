@@ -1,0 +1,58 @@
+# Atividade 1 
+# print("Bem-vindo ao Mundo da progamação em Python")
+
+# Atividade 2 
+# pergunta1 = input("Digite seu nome: ")
+# pergunta2 = int("Digite sua idade: ")
+# print("Seu nome e sua idade é: ",pergunta1, pergunta2)
+
+# # Atividade 3
+# print("135 + 246")
+
+# numero1 = int(input("Digite seu primeiro numero"))
+# numero2 = int(input("Digite seu segundo numero "))
+# resultado = (numero1 + numero2)
+# print("O resultado da conta é:", resultado)
+
+# print("512-128")
+# numero3 = int(input("Digite seu terceiro numero: "))
+# numero4 = int(input("Digite seu quarto numero: "))
+# resultado2 = (numero3 - numero4)
+# print("O resultado da segunda conta é::", resultado2)
+
+# # Atividade 4
+# print("15 x 8")
+
+# soma1 = int(input("Digite seu primeiro numero"))
+# soma2 = int(input("Digite seu segundo numero "))
+# total1 = (soma1 * soma2)
+# print("O resultado da conta é:", resultado)
+
+# print("78 / 3")
+# soma3 = int(input("Digite seu terceiro numero: "))
+# soma4 = int(input("Digite seu quarto numero: "))
+# total2 = (soma3 / soma4)
+# print("O resultado da segunda conta é::", total2)
+
+# # Atividade 5
+# print("5 ** 3")
+
+# Atividade 6 
+# nome = input("Digite seu nome: ")
+# sobrenome = input("Digite seu sobrenome: ")
+
+# print(nome + sobrenome)
+
+# Atividade 7 
+pçboas = float(input("Digite a quantidade de peças boas"))
+pçruins = float(input("Digite a quantidade de peças ruins"))
+total = (pçboas + pçruins) 
+print("O total da taxa de pecas boas é", total/pçboas)
+
+# Atividade 8 
+idade = int(input("Você tem quantos anos? "))
+print("Daqui 10 anos, você vai ter: ", idade + 10)
+
+# Atividade 9 
+print( 250.50 * 3) + 412
+print("O total do custo para a viagem por noites é: ", (250.50 * 3) + 412)
